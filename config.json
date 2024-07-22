@@ -16,7 +16,7 @@
     "repost_max_download_count": 100,
     "user_id_as_folder_name": 0,
     "remove_html_tag": 1,
-    "cookie": "your cookie",
+    "cookie": "",
     "mysql_config": {
         "host": "localhost",
         "port": 3306,
