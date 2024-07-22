@@ -1,5 +1,5 @@
 {
-    "user_id_list": "1669879400",
+    "user_id_list": ["1669879400"],
     "only_crawl_original": 1,
     "since_date": "2021-01-01",
     "start_page": 1,
